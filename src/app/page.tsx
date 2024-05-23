@@ -1,5 +1,5 @@
 "use client";
-import Navbar from './components/Navbar';
+import Navbar from './components/page';
 
 const page: React.FC = () => {
   return (

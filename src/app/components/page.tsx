@@ -19,7 +19,7 @@ export default function Navbar() {
             className="text-gray-300 hover:text-white"
             onClick={() => setDropdownOpen(!dropdownOpen)}
           >
-            More
+            Sign in
           </button>
           {dropdownOpen && (
             <div className="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg py-2 z-20">
